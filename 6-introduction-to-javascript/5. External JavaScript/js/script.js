@@ -1,0 +1,1 @@
+alert("this is called from Script.js file")
