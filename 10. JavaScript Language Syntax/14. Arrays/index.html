@@ -5,21 +5,30 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
+    <script>
+        let array = [
+            'white',
+            'white',
+            'blue',
+            'blue',
+            'green',
+            'green',
+        ]
+    </script>
     <title>Document</title>
 </head>
 <body>
 <h1>heading</h1>
-<p>this is a paragraph</p>
 
-<ul>
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
-    <li>Item 4</li>
-    <li>Item 5</li>
-</ul>
-
+<script>
+    document.write(array + "<br/>")
+    document.write(array[0] + "<br/>")
+    document.write(array[1] + "<br/>")
+    document.write(array[2] + "<br/>")
+    array[0]='updating the value'
+    document.write(array[0] + "<br/>")
+    document.write(array.length + "<br/>")
+</script>
 
 </body>
 </html>
