@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script>
+        function Area(a, b) {
+            this.input1 = a;
+            this.input2 = b;
+            this.getArea = function () {
+                return this.input1 * this.input2;
+            }
+        }
+
+        let input1 = prompt("Enter the first value")
+        let input2 = prompt("Enter the second value")
+        let result = 0;
+
+        input1 = parseInt(input1)
+        input2 = parseInt(input2)
+
+        let a1 = new Area(input1, input2);
+        result = a1.getArea();
+        console.log("Area:" + result);
+
+
+    </script>
+    <title>Document</title>
+</head>
+<body>
+<h1>Area</h1>
+<script>
+    document.write("result:"+result)
+</script>
+</body>
+</html>
