@@ -1,11 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-</head>
-<body>
-    
-</body>
+    <script>
+      let answer = 5;
+      let counter = 0;
+      let flag = false;
+      do {
+         input = prompt("guess a number between on and ten");
+        input = parseInt(input);
+        if(input!== answer){
+            alert("nope Wrong")
+        }else{
+            flag=true;
+            break;
+        }
+        if (counter===3) {
+            break;
+        }
+        counter++;
+      } while (answer !== input);
+      if (flag) {
+        alert("Hooray You Won!!!");
+      } else {
+        alert("Tru Agin Next Time!!!");
+      }
+    </script>
+  </head>
+  <body></body>
 </html>
