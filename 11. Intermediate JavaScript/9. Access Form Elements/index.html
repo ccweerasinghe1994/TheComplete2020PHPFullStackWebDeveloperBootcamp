@@ -1,16 +1,43 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <script>
-        
-    </script>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Document</title>
+    <script>
+        function checkDateFormat() {
+            let inputs = document.getElementsByTagName("input");
+
+
+            let message = "Form Elements\n\n";
+            for (let index = 0; index < inputs.length; index++) {
+                if (inputs[index].getAttribute("type") === "text") {
+                    message += inputs[index].getAttribute("name") + ": ";
+                    message += inputs[index].value + "\n";
+                }
+            }
+            alert(message);
+
+        }
+    </script>
 </head>
 <body>
-
+<form name="user" id="userfrm" action="">
+    Your Name:<input type="text" name="name" id="txt_name"/>
+    <br>
+    <br>
+    <br>
+    Your
+    Email:<input type="text" name="email" id="txt_email"/>
+    <br>
+    <br>
+    <br>
+    <input
+            type="button"
+            name="submit"
+            onclick="checkDateFormat();"
+            value="Submit"
+    />
+</form>
 </body>
 </html>
