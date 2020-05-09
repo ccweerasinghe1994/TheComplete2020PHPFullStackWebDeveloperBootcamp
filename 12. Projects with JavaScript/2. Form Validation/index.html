@@ -1,11 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-</head>
-<body>
-    
-</body>
+    <script>
+      function checkFormData() {
+        let message = "";
+
+        // Accessing the text box value
+        let tName = document.getElementById("txt_name").value;
+        let tEmail = document.getElementById("txt_email").value;
+        let tAge = document.getElementById("txt_age").value;
+
+        // accessing the radio button values
+        let tchBox1 = document.getElementById("radio1").checked;
+        let tchBox2 = document.getElementById("radio2").checked;
+
+        // Access check box
+
+        let tchBox = document.getElementById("chkbox").checked;
+
+        message += "name:" + tName + "<br/>";
+        message += "email:" + tEmail + "<br/>";
+        message += "age:" + tAge + "<br/>";
+        message += "male:" + tchBox1 + "<br/>";
+        message += "female:" + tchBox2 + "<br/>";
+        message += "Agreed to terms:" + tchBox + "<br/>";
+       
+        console.log(message);
+        document.getElementById('tmessage').innerHTML=message;
+      }
+    </script>
+  </head>
+  <body>
+    <form action="https://phpbootcamp.com" method="get">
+      Your Name:<input type="text" name="tname" id="txt_name" /> <br /><br />
+      Your Email:<input type="text" name="temail" id="txt_email" /> <br /><br />
+      Your Age:<input type="text" name="tage" id="txt_age" /> <br /><br />
+      Male:<input type="radio" name="gender" id="radio1" /> <br /><br />
+      Female:<input type="radio" name="gender" id="radio2" /> <br /><br />
+      <input type="checkbox" id="chkbox" />Agree To Our Terms <br /><br />
+      <input
+        type="button"
+        name="submit"
+        value="Submit"
+        onclick="checkFormData()"
+      />
+    </form>
+    <div id="tmessage" ></div>
+  </body>
 </html>
