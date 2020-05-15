@@ -2,7 +2,7 @@
 
 ![alt](https://www.ryadel.com/wp-content/uploads/2017/08/php-logo.png)
 
-1. [Introduction](./Docs/Introduction/introduction.md)
+1. [Introduction](./Docs/1.%20Introduction/introduction.md)
 2. [Setting up the Environment](https://link)
 3. [Web Basics](https://link)
 4. [Introduction to HTML5](https://link)
