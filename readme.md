@@ -1,4 +1,4 @@
-# PHP FullStack WebDeveloper Bootjack
+# PHP FullStack WebDeveloper Boot Camp
 
 ![alt](https://www.ryadel.com/wp-content/uploads/2017/08/php-logo.png)
 
