@@ -55,3 +55,20 @@
 ![alt](./img/37.png)
 ![alt](./img/38.png)
 
+## What is HTTP
+
+![alt](./img/39.png)
+![alt](./img/40.png)
+
+## How HTTP Works
+
+![alt](./img/41.png)
+![alt](./img/42.png)
+![alt](./img/43.png)
+![alt](./img/44.png)
+![alt](./img/45.png)
+![alt](./img/46.png)
+![alt](./img/47.png)
+![alt](./img/48.png)
+![alt](./img/49.png)
+![alt](./img/50.png)
