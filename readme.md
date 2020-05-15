@@ -3,8 +3,8 @@
 ![alt](https://www.ryadel.com/wp-content/uploads/2017/08/php-logo.png)
 
 1. [Introduction](./Docs/1.%20Introduction/introduction.md)
-2. [Setting up the Environment](https://link)
-3. [Web Basics](https://link)
+2. [Setting up the Environment](./Docs/2.%20Setting%20up%20the%20Environment/SettingUpTheEnvironMent.md)
+3. [Web Basics](./Docs/3.%20Web%20Basics/webBasic.md)
 4. [Introduction to HTML5](https://link)
 5. [Intermediate HTML5](https://link)
 6. [Introduction to CSS3](https://link)
