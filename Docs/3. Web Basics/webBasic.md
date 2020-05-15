@@ -44,3 +44,14 @@
 ![alt](./img/29.png)
 ![alt](./img/30.png)
 ![alt](./img/31.png)
+
+## What is DNS
+
+![alt](./img/32.png)
+![alt](./img/33.png)
+![alt](./img/34.png)
+![alt](./img/35.png)
+![alt](./img/36.png)
+![alt](./img/37.png)
+![alt](./img/38.png)
+
