@@ -105,32 +105,10 @@
 ![alt](./img/69.png)
 ![alt](./img/70.png)
 
+## Things To Remember
 
 ![alt](./img/71.png)
+
+## Summery
+
 ![alt](./img/72.png)
-![alt](./img/73.png)
-![alt](./img/74.png)
-![alt](./img/75.png)
-![alt](./img/76.png)
-![alt](./img/77.png)
-![alt](./img/78.png)
-![alt](./img/79.png)
-![alt](./img/91.png)
-![alt](./img/92.png)
-![alt](./img/93.png)
-![alt](./img/94.png)
-![alt](./img/95.png)
-![alt](./img/96.png)
-![alt](./img/97.png)
-![alt](./img/98.png)
-![alt](./img/99.png)
-![alt](./img/100.png)
-![alt](./img/101.png)
-![alt](./img/102.png)
-![alt](./img/103.png)
-![alt](./img/104.png)
-![alt](./img/105.png)
-![alt](./img/106.png)
-![alt](./img/107.png)
-![alt](./img/108.png)
-![alt](./img/109.png)
