@@ -17,9 +17,79 @@
 ![alt](./img/10.png)
 ![alt](./img/11.png)
 
+## Tag, Element and Attribute
 
+## Structure of HTML Page
+
+## My First HTML Page
+## 7. HTML Boilerplate
+## 8. Header Tags
+## 10. Paragraphs and Comments 
+## 12. Horizontal Lines and Line Breaks
+## 14. Strong, Emphasis, Underline and Italics
+## 16. Pre and Code Tags
+## 18. Definitions, Ordered and UnOrdered Lists
+## 20. Link Tags
+## 22. Section and Article Tags
+## 24. Additional HTML Tags
+## 25. NewsPaper Exercise
+## 28. Things to Remember
+## 29. Summary What you have learned in this Section
+## 
+## 
+## 
 
 ![alt](./img/12.png)
 ![alt](./img/13.png)
 ![alt](./img/14.png)
+![alt](./img/15.png)
+![alt](./img/17.png)
+![alt](./img/18.png)
+![alt](./img/19.png)
+![alt](./img/20.png)
+![alt](./img/11.png)
+![alt](./img/12.png)
+![alt](./img/13.png)
+![alt](./img/14.png)
+![alt](./img/15.png)
+![alt](./img/17.png)
+![alt](./img/18.png)
+![alt](./img/19.png)
+![alt](./img/20.png)
+![alt](./img/11.png)
+![alt](./img/12.png)
+![alt](./img/13.png)
+![alt](./img/14.png)
+![alt](./img/15.png)
+![alt](./img/17.png)
+![alt](./img/18.png)
+![alt](./img/19.png)
+![alt](./img/20.png)
+![alt](./img/11.png)
+![alt](./img/12.png)
+![alt](./img/13.png)
+![alt](./img/14.png)
+![alt](./img/15.png)
+![alt](./img/17.png)
+![alt](./img/18.png)
+![alt](./img/19.png)
+![alt](./img/20.png)
+![alt](./img/11.png)
+![alt](./img/12.png)
+![alt](./img/13.png)
+![alt](./img/14.png)
+![alt](./img/15.png)
+![alt](./img/17.png)
+![alt](./img/18.png)
+![alt](./img/19.png)
+![alt](./img/20.png)
+![alt](./img/11.png)
+![alt](./img/12.png)
+![alt](./img/13.png)
+![alt](./img/14.png)
+![alt](./img/15.png)
+![alt](./img/17.png)
+![alt](./img/18.png)
+![alt](./img/19.png)
+![alt](./img/20.png)
  
